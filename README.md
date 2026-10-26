@@ -12,9 +12,9 @@ pinned: false
 
 A machine learning web app that predicts whether a movie review is **Positive** or **Negative**. It uses **CountVectorizer** to turn review text into numbers, a **Support Vector Classifier (SVC)** to classify them, and **Gradio** to provide a simple web interface.
 
-## 🚀 Live Demo
+## 🚀 Run Locally
 
-[Open Live Demo](https://huggingface.co/spaces/Nishi2809/movie-review-sentiment-analysis)
+This app is not deployed yet. See "How to Run Locally" below to run it on your computer.
 
 ## How It Works
 
